@@ -1,3 +1,73 @@
 [submodule "Array"]
 	path = Array
 	url = https://github.com/ashmeet07/Array.git
+
+[submodule "Array"]
+	path = Array
+	url = https://github.com/ashmeet07/Array.git
+
+
+[submodule "Array"]
+	path = Array
+	url = https://github.com/ashmeet07/Array.git
+
+
+[submodule "Array"]
+	path = Array
+	url = https://github.com/ashmeet07/Array.git
+
+[submodule "Array"]
+	path = Array
+	url = https://github.com/ashmeet07/Array.git
+
+[submodule "Array"]
+	path = Array
+	url = https://github.com/ashmeet07/Array.git
+
+[submodule "Array"]
+	path = Array
+	url = https://github.com/ashmeet07/Array.git
+
+[submodule "Array"]
+	path = Array
+	url = https://github.com/ashmeet07/Array.git
+
+[submodule "Array"]
+	path = Array
+	url = https://github.com/ashmeet07/Array.git
+
+[submodule "Graph"]
+	path = Graph
+	url = https://github.com/ashmeet07/Graph.git
+
+[submodule "Sorting"]
+	path = Sorting
+	url = https://github.com/ashmeet07/Sorting.git
+
+[submodule "Searching"]
+	path = Searching
+	url = https://github.com/ashmeet07/Searching.git
+
+[submodule "String"]
+	path = String
+	url = https://github.com/ashmeet07/String.git
+
+[submodule "Tree"]
+	path = Tree
+	url = https://github.com/ashmeet07/Tree.git
+
+[submodule "Trie"]
+	path = Trie
+	url = https://github.com/ashmeet07/Trie.git
+
+[submodule "Recursion"]
+	path = Recursion
+	url = https://github.com/ashmeet07/Recursion.git
+
+[submodule "Math"]
+	path = Math
+	url = https://github.com/ashmeet07/Math.git
+
+[submodule "Input"]
+	path = Input
+	url = https://github.com/ashmeet07/Input.git
